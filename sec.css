@@ -24,3 +24,22 @@ section{
 .right{
     padding-left: 10%;
 }
+.link{
+     text-decoration: none;
+     background-image: linear-gradient(tomato, orange);
+     padding:10px 30px;
+     color:aliceblue;
+     border-radius: 10px;
+}
+.textb{
+    width: 35%;
+    margin-left: 100px;
+    padding-left: 10px;
+    background: radial-gradient(rgb(0, 255, 98),blue);
+    border-radius: 10px;
+    border-left:10px solid coral;
+}
+.me{
+    text-align: center;
+    margin-top: 30px;
+}
