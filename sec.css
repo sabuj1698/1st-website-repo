@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 10px;
+    padding-left: 10px;
+}
+.go{
+    color: tomato;
+    font-size: 50px;
+}
+.to{
+    color: rgb(9, 255, 0);
+    font-size: 50px;
+}
+.ot{
+    color: yellow;
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.width-s{
+    width: 50%;
+}
+.right{
+    padding-left: 10%;
+}
